@@ -1,2 +1,2 @@
 # nuxt2-template
-Pinia, Axios, Vuetify, Bootstrap, BootstrapVue, Lodash, Eslint
+Pinia, Axios, Vuetify, BalmUI, Bootstrap, BootstrapVue, Lodash, Eslint
